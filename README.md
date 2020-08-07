@@ -17,7 +17,7 @@
 - 조일
 ````
 * 역할: 팀원 
-* Email: 
+* Email: cho000023@naver.com
 ````
 
 
